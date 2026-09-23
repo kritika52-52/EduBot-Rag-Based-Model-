@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the minimum attendance percentage required?",
+    "expected_answer": "75%",
+    "source_keywords": ["attendance", "75"]
+  },
+  {
+    "question": "What happens if a student's attendance falls below the minimum?",
+    "expected_answer": "The student may be detained or not allowed to sit for exams.",
+    "source_keywords": ["detain", "condonation", "shortage"]
+  },
+  {
+    "question": "How many internal exams are conducted per semester?",
+    "expected_answer": "REPLACE with your college's actual answer",
+    "source_keywords": ["internal", "exam"]
+  }
+]
